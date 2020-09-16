@@ -42,8 +42,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Stuff",
-    "path": "folders/Stuff.yy",
+    "name": "Tutorial - 230 Foreach Loops",
+    "path": "Tutorial - 230 Foreach Loops.yyp",
   },
   "resourceVersion": "1.0",
   "name": "Room1",
